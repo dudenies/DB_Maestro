@@ -16,7 +16,7 @@
 
 ## 📸 Screenshot
 
-<img src="imgs\image.png" alt="DB Maestro Interface" />
+<img src="image.png" alt="DB Maestro Interface" />
 
 ## ⚡ Quick Start
 
